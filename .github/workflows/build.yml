@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print message to console
-        run: | 
-	  echo 'date +"%D %T"' 
+        run: |
+          echo "$(date)"
           echo "Hello, world!"
           echo "Hello, everyone!"
