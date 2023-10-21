@@ -1,4 +1,4 @@
 package org.example;
 
-public abstract class Animals implements ActionAnimals, SquadAnimals {
+public abstract class Animals implements ActionAnimals, SquadAnimals{
 }
