@@ -16,3 +16,4 @@ public class Horse extends Animals {
         System.out.println("Лошадь ходит");
     }
 }
+

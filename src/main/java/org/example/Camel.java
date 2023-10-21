@@ -16,3 +16,4 @@ public class Camel extends Animals{
         System.out.println("Верблюд есть траву");
     }
 }
+
