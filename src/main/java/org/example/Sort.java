@@ -2,12 +2,7 @@ package org.example;
 
 import java.util.List;
 
-enum TypeSort {
-    mergeSort,
-    bubbleSort
-}
-
-public class Sort {
+public abstract class Sort {
     void sort(List<Integer> array) {
 
     }
